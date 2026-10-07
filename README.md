@@ -1,12 +1,47 @@
-# Hub — installateurs
+<p align="center">
+  <img src="images/logo.png" width="120" alt="Logo du Hub">
+</p>
 
-Ce dépôt contient uniquement les versions publiées du **Hub**, un lanceur d'applications pour
-Windows 10 et 11 (le code source est dans un dépôt privé).
+<h1 align="center">Hub</h1>
 
-**Télécharger la dernière version :** [Releases → Latest](https://github.com/AestasDev/HUB-releases/releases/latest),
-fichier `Hub-Setup-X.Y.Z.exe`.
+<p align="center">
+  <b>Toutes vos applications et vos jeux, au même endroit.</b><br>
+  Un lanceur rapide et élégant pour Windows 10 et 11.
+</p>
 
-- Installation par utilisateur, sans droits administrateur.
-- Une fois installé, le Hub se met à jour tout seul à partir de ce dépôt.
-- L'exécutable n'est pas signé : Windows SmartScreen peut afficher un avertissement
-  (« Informations complémentaires » → « Exécuter quand même »).
+<p align="center">
+  <a href="https://github.com/AestasDev/HUB-releases/releases/latest"><b>⬇ Télécharger la dernière version</b></a>
+</p>
+
+![Hub](images/01-hub.png)
+
+## Fonctionnalités
+
+- **Détection automatique** des applications installées : menu Démarrer, Microsoft Store, Steam, Epic Games,
+  GOG, Ubisoft Connect, Battle.net, EA app, Riot, Heroic, Playnite.
+- **Recherche instantanée** : initiales, fautes de frappe, calculatrice, paramètres Windows, recherche web.
+- **Accueil** avec accès rapide à l'Explorateur, au Gestionnaire des tâches et à la corbeille.
+- **Statistiques** du temps réellement passé dans chaque application (données conservées sur votre PC).
+- **Thème clair ou sombre**, façon Windows 11 ; favoris, catégories, applications masquées.
+- **Raccourci global**, icône de notification, démarrage avec Windows et **mises à jour automatiques**.
+
+## Aperçu
+
+![Recherche instantanée](images/02-recherche.png)
+![Accueil et accès rapide](images/03-accueil.png)
+![Tous vos jeux réunis](images/04-jeux.png)
+![Statistiques d'utilisation](images/05-statistiques.png)
+![Clair ou sombre](images/06-themes.png)
+![Personnalisation](images/07-personnalisation.png)
+![Toujours prêt](images/08-toujours-pret.png)
+
+## Installation
+
+1. Téléchargez `Hub-Setup-X.Y.Z.exe` depuis la [dernière version](https://github.com/AestasDev/HUB-releases/releases/latest).
+2. Lancez-le : l'installation se fait par utilisateur, **sans droits administrateur**.
+3. Une fois installé, le Hub se met à jour tout seul à partir de ce dépôt.
+
+L'exécutable n'est pas signé : Windows SmartScreen peut afficher un avertissement
+(« Informations complémentaires » → « Exécuter quand même »).
+
+Ce dépôt ne contient que les versions publiées ; le code source est privé.
