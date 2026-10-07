@@ -23,6 +23,8 @@
 - **Accueil** avec accès rapide à l'Explorateur, au Gestionnaire des tâches et à la corbeille.
 - **Statistiques** du temps réellement passé dans chaque application (données conservées sur votre PC).
 - **Thème clair ou sombre**, façon Windows 11 ; favoris, catégories, applications masquées.
+- **Ranger le bureau** : les raccourcis des applications trouvées quittent le bureau, gardés en sauvegarde
+  et remis en place en un clic.
 - **Raccourci global**, icône de notification, démarrage avec Windows et **mises à jour automatiques**.
 
 ## Aperçu
@@ -33,7 +35,8 @@
 ![Statistiques d'utilisation](images/05-statistiques.png)
 ![Clair ou sombre](images/06-themes.png)
 ![Personnalisation](images/07-personnalisation.png)
-![Toujours prêt](images/08-toujours-pret.png)
+![Ranger le bureau](images/08-bureau.png)
+![Toujours prêt](images/09-toujours-pret.png)
 
 ## Installation
 
