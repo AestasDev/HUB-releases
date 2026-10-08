@@ -18,9 +18,11 @@
 ## Fonctionnalités
 
 - **Détection automatique** des applications installées : menu Démarrer, Microsoft Store, Steam, Epic Games,
-  GOG, Ubisoft Connect, Battle.net, EA app, Riot, Heroic, Playnite.
+  GOG, Ubisoft Connect, Battle.net, EA app, Riot, Heroic, Playnite, et les programmes sans raccourci
+  présents sur tous les disques.
 - **Recherche instantanée** : initiales, fautes de frappe, calculatrice, paramètres Windows, recherche web.
-- **Accueil** avec accès rapide à l'Explorateur, au Gestionnaire des tâches et à la corbeille.
+- **Accueil** avec accès rapide à l'Explorateur, au Gestionnaire des tâches, à la corbeille et aux
+  applications installées.
 - **Statistiques** du temps réellement passé dans chaque application (données conservées sur votre PC).
 - **Thème clair ou sombre**, façon Windows 11 ; favoris, catégories, applications masquées.
 - **Ranger le bureau** : les raccourcis des applications trouvées quittent le bureau, gardés en sauvegarde
