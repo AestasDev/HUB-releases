@@ -80,3 +80,5 @@ Ce dépôt ne contient que les versions publiées ; le code source est privé.
   et suivre les nouvelles versions.
 - **Un bug ?** Dans le Hub, menu « Plus d'options » → « Signaler un problème… » : le rapport est déjà préparé.
   Vous pouvez aussi ouvrir un rapport dans l'onglet [Issues](https://github.com/AestasDev/HUB-releases/issues).
+- **Soutenir le projet** : le Hub est gratuit. Si vous l'aimez, vous pouvez soutenir son développement sur
+  [Patreon](https://www.patreon.com/AestasFR).
