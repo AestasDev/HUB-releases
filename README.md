@@ -11,6 +11,8 @@
 
 <p align="center">
   <a href="https://github.com/AestasDev/HUB-releases/releases/latest"><b>⬇ Télécharger la dernière version</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://discord.gg/bhseMPZqn8"><b>💬 Rejoindre le Discord</b></a>
 </p>
 
 ![Hub](images/01-hub.png)
@@ -71,3 +73,10 @@ L'exécutable n'est pas signé : Windows SmartScreen peut afficher un avertissem
 (« Informations complémentaires » → « Exécuter quand même »).
 
 Ce dépôt ne contient que les versions publiées ; le code source est privé.
+
+## Communauté
+
+- **Discord** : [discord.gg/bhseMPZqn8](https://discord.gg/bhseMPZqn8), pour poser vos questions, proposer des idées
+  et suivre les nouvelles versions.
+- **Un bug ?** Dans le Hub, menu « Plus d'options » → « Signaler un problème… » : le rapport est déjà préparé.
+  Vous pouvez aussi ouvrir un rapport dans l'onglet [Issues](https://github.com/AestasDev/HUB-releases/issues).
