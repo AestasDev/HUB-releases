@@ -31,7 +31,8 @@
   applications installées.
 - **Profils de lancement** : plusieurs applications ouvertes d'un seul clic, dans l'ordre choisi (par exemple
   OBS, Discord et Spotify pour un live).
-- **Statistiques** du temps réellement passé dans chaque jeu et application (données conservées sur votre PC).
+- **Statistiques** du temps réellement passé dans chaque jeu et application (données conservées sur votre PC),
+  et un **bilan de la semaine** chaque dimanche soir : temps de jeu et jeux les plus joués.
 - **Couleur d'accent** au choix (néon cyan, magenta, braise, améthyste, menthe, couleur de la jaquette ou de
   Windows) ; favoris, catégories, applications masquées.
 - **Désinstaller** un jeu ou une application d'un clic droit, et **Nettoyage** : récupérez la place laissée par
