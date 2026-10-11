@@ -29,11 +29,15 @@
 - **Recherche instantanée** : initiales, fautes de frappe, calculatrice, paramètres Windows, recherche web.
 - **Accueil** avec accès rapide à l'Explorateur, au Gestionnaire des tâches, à la corbeille et aux
   applications installées.
+- **Profils de lancement** : plusieurs applications ouvertes d'un seul clic, dans l'ordre choisi (par exemple
+  OBS, Discord et Spotify pour un live).
 - **Statistiques** du temps réellement passé dans chaque jeu et application (données conservées sur votre PC).
 - **Couleur d'accent** au choix (néon cyan, magenta, braise, améthyste, menthe, couleur de la jaquette ou de
   Windows) ; favoris, catégories, applications masquées.
-- **Nettoyage** : récupérez la place laissée par les jeux désinstallés (dossiers mis à la corbeille) et rangez
-  les raccourcis cassés du menu Démarrer.
+- **Désinstaller** un jeu ou une application d'un clic droit, et **Nettoyage** : récupérez la place laissée par
+  les jeux désinstallés (dossiers mis à la corbeille) et rangez les raccourcis cassés du menu Démarrer.
+- **Sauvegarde** de vos réglages, favoris, profils et statistiques dans un fichier .zip, à réimporter après une
+  réinstallation de Windows ou sur un autre PC.
 - **Ranger le bureau** : les raccourcis des applications trouvées quittent le bureau, gardés en sauvegarde
   et remis en place en un clic.
 - **Raccourci global**, icône de notification, démarrage avec Windows et **mises à jour automatiques**, avec
@@ -45,14 +49,16 @@
 ![Accueil et accès rapide](images/02-accueil.png)
 ![Tous vos jeux réunis](images/03-jeux.png)
 ![Jeux à installer](images/04-a-installer.png)
-![À la manette](images/05-manette.png)
-![Recherche instantanée](images/06-recherche.png)
-![Personnalisation](images/07-personnalisation.png)
-![Couleurs d'accent](images/08-couleurs.png)
-![Statistiques d'utilisation](images/09-statistiques.png)
-![Nettoyage](images/10-nettoyage.png)
-![Ranger le bureau](images/11-bureau.png)
-![Toujours prêt](images/12-toujours-pret.png)
+![Profils de lancement](images/05-profils.png)
+![À la manette](images/06-manette.png)
+![Recherche instantanée](images/07-recherche.png)
+![Personnalisation](images/08-personnalisation.png)
+![Couleurs d'accent](images/09-couleurs.png)
+![Statistiques d'utilisation](images/10-statistiques.png)
+![Nettoyage](images/11-nettoyage.png)
+![Désinstaller et sauvegarder](images/12-desinstaller-sauvegarder.png)
+![Ranger le bureau](images/13-bureau.png)
+![Toujours prêt](images/14-toujours-pret.png)
 
 ## Installation
 
