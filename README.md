@@ -22,10 +22,11 @@
 - **Interface façon console**, style néon : vos jeux avec leurs vraies jaquettes, le dernier joué en grand
   avec son illustration officielle et un bouton « Jouer ».
 - **Détection automatique** des applications installées : menu Démarrer, Microsoft Store, Steam, Epic Games,
-  GOG, Ubisoft Connect, Battle.net, EA app, Riot, Heroic, Playnite, et les programmes sans raccourci
-  présents sur tous les disques.
-- **Jeux à installer** : un onglet à part pour les jeux de vos bibliothèques Steam et Epic Games qui ne sont
-  pas installés, avec leur jaquette ; un clic ouvre leur installation.
+  GOG, Ubisoft Connect, Battle.net, EA app, Riot, Rockstar Games, Heroic, Playnite, et les programmes sans
+  raccourci présents sur tous les disques.
+- **Jeux à installer** : un onglet à part pour les jeux de vos bibliothèques Steam, Epic Games, GOG Galaxy et
+  Ubisoft Connect qui ne sont pas installés, et pour les jeux Battle.net et Rockstar déjà lancés sur ce PC ;
+  un clic ouvre leur installation.
 - **Temps de jeu Steam** repris automatiquement : le bon jeu est mis en avant dès le premier lancement.
 - **Manette Xbox** : le Hub se pilote entièrement à la manette, comme une console.
 - **Recherche instantanée** : initiales, fautes de frappe, calculatrice, paramètres Windows, recherche web.
